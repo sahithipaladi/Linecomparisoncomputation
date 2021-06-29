@@ -20,13 +20,17 @@ namespace Linecomparisoncomputationpgrm
             Console.WriteLine("Enter values x4 and y4 for Line 2");
             int x4 = Convert.ToInt32(Console.ReadLine());
             int y4 = Convert.ToInt32(Console.ReadLine());
+            //the Length of 2 lines is given
             double length_of_line1 = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
             double length_of_line2 = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));
-            //the Length of 2 Points (x1, y1) and (x2, y2) is given
-            if (length_of_line1.Equals(length_of_line2))
-                Console.WriteLine("Lines are equal in length.");
+
+            int line_difference = length_of_line1.CompareTo(length_of_line2);
+            if (line_difference == 0)
+                Console.WriteLine("Lines are equal in length");
+            else if (line_difference > 0)
+                Console.WriteLine("Line1 is greater in length than Line2");
             else
-                Console.WriteLine("Lines are not equal in length.");
+                Console.WriteLine("Line1 is smaller in length than Line2");
         }
     }
 }
