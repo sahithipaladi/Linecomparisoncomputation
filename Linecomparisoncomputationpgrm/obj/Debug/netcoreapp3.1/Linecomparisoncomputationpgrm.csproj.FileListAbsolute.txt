@@ -1,0 +1,13 @@
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\bin\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.exe
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\bin\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.deps.json
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\bin\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\bin\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\bin\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.dll
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\bin\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.pdb
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\obj\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\obj\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\obj\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\obj\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\obj\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.dll
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\obj\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.pdb
+C:\Users\Sahithi.P\source\repos\Linecomparisoncomputationpgrm\Linecomparisoncomputationpgrm\obj\Debug\netcoreapp3.1\Linecomparisoncomputationpgrm.genruntimeconfig.cache
